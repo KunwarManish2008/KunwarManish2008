@@ -18,7 +18,7 @@
 <p>
 <a href="https://twitter.com/manis61"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/manish-kumar-5b9a0a144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/shanky4you/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/kunwarmanish28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <p><a href="https://www.shashank02051997.github.io">➡️ Check out my website</a></p>
 <br />
 <br />
