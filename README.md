@@ -1,4 +1,4 @@
-### Hi, I'm Manish Kumar (https://github.com/KunwarManish2008.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Manish Kumar (https://github.com/KunwarManish2008) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
 <!--
