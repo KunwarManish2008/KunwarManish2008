@@ -1,4 +1,4 @@
-### Hi, I'm [Manish Kumar](https://github.com/KunwarManish2008) <iframe src="https://giphy.com/embed/DuWNPF952JNyE" width="25px" height="25px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/android-DuWNPF952JNyE">via GIPHY</a></p>
+### Hi, I'm [Manish Kumar](https://github.com/KunwarManish2008) <img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="25px">
 
 *An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
 <!--
