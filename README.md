@@ -1,4 +1,4 @@
-### Hi, I'm Manish Kumar (https://github.com/KunwarManish2008) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm [Manish Kumar](https://github.com/KunwarManish2008) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
 <!--
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 💬 Ask me about Android and Flutter.
 - 📫 How to reach me **manni2468@gmail.com**
-- ⚡ Fun fact: As I am very keen to learn new thing everyday, I spend most of my spare time in a day surfing the internet.
+- ⚡ Fun fact: As I am very keen to learn new things everyday, I spend most of my spare time in a day surfing the internet.
 
 ### Me on Internet:
 
