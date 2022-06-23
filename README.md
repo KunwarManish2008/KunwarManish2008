@@ -13,18 +13,27 @@
 - 📫 How to reach me **manni2468@gmail.com**
 - ⚡ Fun fact: As I am very keen to learn new things everyday, I spend most of my spare time in a day surfing the internet.
 
-### Me on Internet:
-
-<p>
+## Me on Internet
 <a href="https://twitter.com/manis61"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/manish-kumar-5b9a0a144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/kunwarmanish28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <br />
 <br />
 
+## Proficient In
+![Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![firebase](https://img.shields.io/badge/-firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white)
+<br />
+<br />
 
-### Tech Stack:
-
+## Design Tools
+![figma](https://img.shields.io/badge/-figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
+![xd](https://img.shields.io/badge/-adobe-FF61F6?&style=for-the-badge&logo=adobexd&logoColor=white)
+![illustrator](https://img.shields.io/badge/-adobe-FF9A00?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
+<br />
+<br />
+## Tech Stack
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" title="android"/>
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="java"/>
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" title="Kotlin"/>
