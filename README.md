@@ -33,15 +33,29 @@
 ![illustrator](https://img.shields.io/badge/-adobe-FF9A00?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
 <br />
 <br />
+
+## GitHub Stats 
+
+![profile views](https://komarev.com/ghpvc/?username=KunwarManish2008&color=blue)
+<br>
+<br>
+
+<a href="https://github.com/KunwarManish2008/KunwarManish2008">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank02051997&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/KunwarManish2008/KunwarManish2008">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KunwarManish2008&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
+</a>
+
 ## Tech Stack
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" title="android"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="java"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" title="Kotlin"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" title="Gradle"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" title="Dart"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" title="Jekyll"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" title="Hugo"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" title="Git"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python"/>
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" title="Figma"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" title="android"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="java"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" title="Kotlin"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" title="Gradle"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" title="Dart"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" title="Jekyll"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" title="Hugo"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" title="Git"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python"/>
+<img align="left" alt="Manish | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" title="Figma"/>
