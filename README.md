@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="185px" height="185px"> <br/>I'm [Manish Kumar](https://github.com/KunwarManish2008)
 
-*An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
+*An enthusiastic Programmer | Google Certified Android Developer | Full-Stack Developer with **Backend** - Java (SpringBoot), Python(Django, Flask, FastAPI),  **Frontend** React, Javascript, typescript| Freelancer | Open Source lover*
 <!--
 **Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
